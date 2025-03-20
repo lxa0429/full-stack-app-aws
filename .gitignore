@@ -5,4 +5,5 @@
 !.elasticbeanstalk/*.global.yml
 .env
 s3-secrets-policy.json
+node_modules
 
